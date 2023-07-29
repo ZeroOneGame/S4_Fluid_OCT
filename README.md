@@ -1,6 +1,8 @@
 # PyTorch Project for the Semi-supervised Fluid Segmentation
 
-This is the official implementation of our Semi-supervised Fluid Segmentation Model. More detailed comments are coming soon.
+This is the official implementation of our Semi-supervised Fluid Segmentation Model.
+
+More detailed comments are coming soon.
 
 # Timeline
 
