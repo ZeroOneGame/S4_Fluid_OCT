@@ -1,3 +1,11 @@
+# encoding: utf-8
+"""
+@author:  ZeroOneGame
+
+More details are coming soon.
+
+"""
+
 import torch, cv2
 from torch import nn
 import torch.nn.functional as F
