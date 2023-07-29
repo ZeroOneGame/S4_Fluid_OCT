@@ -37,7 +37,7 @@ More detailed comments are coming soon.
 │   └── conv_layer.py
 │   └── seg_base_models.py
 │   └── segmentation_models.py
-│   └── segmentation_loss.py
+│   └── anatomy_loss.py
 |   └── semantic_losses.py
 │ 
 │ 
