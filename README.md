@@ -38,6 +38,7 @@ More detailed comments are coming soon.
 │   └── seg_base_models.py
 │   └── segmentation_models.py
 │   └── segmentation_loss.py
+|   └── semantic_losses.py
 │ 
 │ 
 └── utils
@@ -54,3 +55,8 @@ More detailed comments are coming soon.
 
 # Acknowledgments
 
+Some implementations are referred to the following repositories:
+
+https://github.com/huggingface/pytorch-image-models
+
+https://github.com/qubvel/segmentation_models.pytorch
